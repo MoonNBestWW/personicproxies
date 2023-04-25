@@ -1,0 +1,240 @@
+body {
+    background-color: rgb(14, 14, 14);
+    margin: 0 !important;
+    font-family: 'Inter', sans-serif !important;
+    
+}
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+.nav-mid {
+    background-color: rgb(8, 8, 8) !important;
+}
+
+.nav-full{
+    background-color: rgb(8, 8, 8) !important;
+}
+
+.navbar-nav a {
+    color: white !important;
+    font-weight: 600;
+}
+
+.nav-logo {
+    max-width: 150px;
+}
+
+.nav-dc-btn {
+    background-image: linear-gradient(to right, #003d8d , #040082) !important;
+    border-radius: 100%;
+    padding: 8px;
+}
+
+.navbar-text a {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: rgba(255, 255, 255, 0.89) !important;
+    transition: 0.5s;
+}
+
+.col-md-6 {
+    color: white !important;
+}
+
+.lean-png {
+    max-width: 300px;
+}
+
+.prices-bar {
+    background-color: rgb(8, 8, 8) !;
+}
+
+.card-body {
+    background-color: rgb(8, 8, 8);
+    color: white !important;
+    border: none;
+}
+
+.card {
+    border: none;
+}
+
+.btn-primary {
+    background-image: linear-gradient(to right, #003d8d , #040082) !important;
+    border: none !important;
+}
+
+.btn-primary:hover {
+    background-image: linear-gradient(to right, #003d8d , #040082) !important;
+}
+
+.btn-danger {
+    background-color: #003d8d;
+    border: none !important;
+    outline: none !important;
+}
+
+.btn-secondary {
+    background-color: #003d8d;
+    border: none !important;
+    outline: none !important;
+}
+
+.btn-success {
+    background-color: #003d8d;
+    border: none !important;
+    outline: none !important;
+}
+
+.card-1 {
+    border: 2px solid #1557ac !important;
+}
+.card-2 {
+    border: 2px solid #1557ac !important;
+}
+.card-3 {
+    border: 2px solid #1557ac !important;
+}
+.card-4 {
+    border: 2px solid #1557ac !important;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.features {
+    color: rgba(240, 248, 255, 0.712);
+}
+
+@keyframes ipshine {
+    0% {
+        color: #1557ac;
+    }
+    
+    50% {
+        color: #0028ac;
+    }
+
+    100% {
+        color: #1557ac;
+    }
+}
+
+.list-unstyled li {
+    font-size: 0.9rem;
+}
+.card-header {
+    background-color: rgba(0, 0, 0, 0.993);
+}
+.card-header h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+.pr-list li a {
+    color: rgba(255, 255, 255, 0.767) !important;
+    text-decoration: none !important;
+}
+
+.pr-list li a:hover {
+    color: rgba(255, 255, 255, 0.876) !important;
+    text-decoration: none !important;
+}
+
+.l-prr {
+    color: rgb(218, 218, 218) !important; 
+}
+.footer-lg {
+    max-width: 150px;
+}
+
+.border-top {
+    border-top: 1px solid #dee2e611 !important;
+  }
+
+  .ftr-1 {
+      background-color: #080808;
+      color: white;
+      border-radius: 5px;
+  }
+
+  .ftr-2 {
+    background-color: #080808;
+    color: white;
+    border-radius: 5px;
+}
+
+
+  .a {
+    padding: 50px;
+}
+
+.brdr1 {
+    border: 2px solid #005fdc50 !important;
+}
+
+.brdr2 {
+    border: 2px solid #005fdc50 !important;
+}
+
+.brdr3 {
+    border: 2px solid #005fdc50 !important;
+    
+}
+
+.brdr4 {
+    border: 2px solid #005fdc50 !important;
+}
+
+.navbar-toggler {
+    border-color: rgb(255,102,203);
+  } 
+
+  @media only screen and (max-width: 1200px) {
+    .home-lp {
+      margin-top: 80px !important;
+    }
+
+    .lean-png {
+        max-width: 250px !important;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .home-lp {
+      margin-top: 30px !important;
+    }
+
+    .lean-png {
+        max-width: 200px !important;
+        margin-top: 30px;
+    }
+  }
+
+  .ftr-1:hover {
+      transition: 0.2s;
+      transform: scale(1.01) !important;
+      cursor: pointer !important;
+  }
+
+  .card-header button {
+      color: white !important;
+      font-weight: 600;
+  }
+
+  .btn:focus,.btn:active {
+    outline: none !important;
+    box-shadow: none;
+ }
+
+ .card-header {
+     border-bottom: solid 2px #0E0E0E !important;
+ }
